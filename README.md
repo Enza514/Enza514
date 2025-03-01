@@ -2,7 +2,6 @@
 
 ### I am a Computer Science Major and recent grad who has been working in the video games QA field for the last 10 years
 
-- (2025) Currently taking time to obtain certificates, don't expect many updates or projects here.
 - ⚙️ I use `C/C++` and `Python` for most of my own projects, and plan on adding more here not that I have more free time! 😊 
 - ℹ️ I am familiar with most database tools for entering and managing issues, like Jira, Zephyr, etc.
 - 🗣️ Let's talk about **Games** and **AI**, these are two of my greatest interest at the moment, although I only know a little bit about AI.
