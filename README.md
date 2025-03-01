@@ -5,9 +5,8 @@
 - ⚙️ I use `C/C++` and `Python` for most of my own projects, and plan on adding more here not that I have more free time! 😊 
 - ℹ️ I am familiar with most database tools for entering and managing issues, like Jira, Zephyr, etc.
 - 🗣️ Let's talk about **Games** and **AI**, these are two of my greatest interest at the moment, although I only know a little bit about AI.
-
-- 🔭 I’m currently working on Certificates.
-- 🌱 I’m currently learning Automation.
+- 🔭 I’m currently working on a project to assist my GM'ing TTRPGs.
+- 🌱 I’m currently learning Automation, Machine Learning, and more in-depth Python.
 
 <!--
 **Enza514/Enza514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
