@@ -5,7 +5,7 @@
 - ⚙️ I use `C/C++` and `Python` for most of my own projects. 
 - ℹ️ I am familiar with most database tools for entering and managing issues, like Jira, Zephyr, etc.
 - 🗣️ Let's talk about **Games** and **Programming**, these are two of my greatest interest at the moment.
-- 🔭 I am not doing much since some family tradgey.
+- 🔭 I am not doing much since recent family tradgey.
 
 <!--
 **Enza514/Enza514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
